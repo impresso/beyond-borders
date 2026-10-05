@@ -23,9 +23,9 @@ image:
 <hr>
 
 ## About
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/cfp';">Call for papers</button>
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/practical';">Practical informations</button>
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/presentation';">About Impresso</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/beyond-borders/cfp';">Call for papers</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/beyond-borders/practical';">Practical informations</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/beyond-borders/presentation';">About Impresso</button>
 
 <hr>
 
