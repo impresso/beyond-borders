@@ -3,7 +3,7 @@ title: Call for papers
 title_long: 
 permalink: /cfp
 layout: index
-order: 1
+order: 2
 image: 
 
 ---
