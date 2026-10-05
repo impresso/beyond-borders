@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Radio and Newspapers Conference 2026
+title:       Beyond Borders Conference 2027
 email:       'info@impresso-project.ch'
-description: 'Radio and Newspapers: What Intersections for Media History?'
-baseurl:     '/radio-and-newspapers-conference' # The subpath of your site, e.g. /blog
+description: 'Beyond Borders. Futures of Digitised Historical Media Collections for Research and Teaching'
+baseurl:     '/beyond-borders' # The subpath of your site, e.g. /blog
 url:         'https://impresso.github.io' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/impressoproject'
-github:      'https://github.com/impresso/radio-and-newspapers-conference/'
+github:      'https://github.com/impresso/beyond-borders/'
 
 
 markdown:  kramdown
