@@ -14,7 +14,7 @@ image:
 28-29 January 2027
 
 ### International conference
-[University of Lausanne](https://impresso.github.io/radio-and-newspapers-conference/practical), Switzerland
+[University of Lausanne](https://impresso.github.io/beyond-borders/practical), Switzerland
 
 ![Radio and Newspapers Conference](images/beyondborders.png)
 <small>Mobile radio on a motorcycle, Paris Radio Rallye (12 June 1927), BnF, [Wikimedia Commons]([https://commons.wikimedia.org/wiki/File:CBC_journalists_in_Montreal.jpg](https://commons.wikimedia.org/wiki/File:Paris,_12-6-27,_radio_rallye_(radio_mobile_sur_une_moto)_-_btv1b53181880n.jpg)).</small>
