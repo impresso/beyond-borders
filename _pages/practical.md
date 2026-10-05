@@ -13,19 +13,17 @@ image:
 ## About the conference
 
 ### Registration
-The conference is free of charge, but you need to [register using this form](https://impresso.github.io/radio-and-newspapers-conference/registration).
+The conference is free of charge, but you'll need to register. More soon.
 
 ### Venue
-The conference takes place in the Nucleo room, on the ground floor of the Vortex building (University of Lausanne, Switzerland). The nearest metro stop is “UNIL-Sorge” on the M1 line (5-minute walk). [Google Maps link](https://maps.app.goo.gl/Pbw3aEfW5JMbqnWr9).
-
-![Campus map](https://raw.githubusercontent.com/impresso/radio-and-newspapers-conference/refs/heads/main/images/location_plan.png)
+University of Lausanne, Switzerland. More soon.
 
 ### Meals
-Coffee breaks will be provided by the conference. Lunch is covered for speakers, other participants are welcome to eat with the group at their own expense.
+Coming soon.
 
 ### Online participation
 
-The conference is an on-site event, but the sessions will be streamed on Teams. You need to [register for the conference](https://impresso.github.io/radio-and-newspapers-conference/registration) to receive the invitation link a few days before the event. 
+Coming soon.
 
 <hr>
 
